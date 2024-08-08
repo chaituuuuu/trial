@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.py": "pip-requirements",
+        "stdio.h": "c",
+        "syscall.h": "c"
+    }
+}
